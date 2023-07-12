@@ -1,4 +1,5 @@
 # Flask Login Basic
+使用Flask框架编写的blog系统
 
 ## Deployment
 1. Get a domain
