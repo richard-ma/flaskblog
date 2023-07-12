@@ -14,6 +14,7 @@
 1. 创建venv环境并进入虚拟环境
 1. 利用requirements.txt恢复虚拟环境
 1. 恢复环境变量或编辑配置文件
+1. 使用`flask shell`恢复数据库`from app import db`然后`db.create_all()`
 1. flask运行测试基本功能是否完好
 1. 配置gunicorn，用于生产环境
 1. `pip install gunicorn`
